@@ -1,12 +1,4 @@
-# [Travel Itinerary Generator Using AI](Travel-Itinerary-Generator-Using-AI)
-
-
-***
-
-[![GitHub license](https://img.shields.io/github/license/sunkarasnigdha/Travel-Itinerary-Generator-Using-AI)](LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/sunkarasnigdha/Travel-Itinerary-Generator-Using-AI)]()
-[![GitHub contributors](https://img.shields.io/github/contributors/sunkarasnigdha/Travel-Itinerary-Generator-Using-AI)]()
-[![GitHub last-commit](https://img.shields.io/github/last-commit/sunkarasnigdha/Travel-Itinerary-Generator-Using-AI)]()
+## [Travel Itinerary Generator Using AI](Travel-Itinerary-Generator-Using-AI)
 
 
 <img title="Travel-Itinerary-Generator-Using-AI" align='right' src="/static/logo.png" alt="Travel Itinerary Generator Logo" width="150"/>
